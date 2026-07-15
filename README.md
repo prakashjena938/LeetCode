@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/prakashjena938/LeetCode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/prakashjena938/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/prakashjena938/LeetCode/tree/master/0088-merge-sorted-array) |
+| [3151-special-array-i](https://github.com/prakashjena938/LeetCode/tree/master/3151-special-array-i) |
 ## Math
 |  |
 | ------- |
