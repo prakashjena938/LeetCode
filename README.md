@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/prakashjena938/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/prakashjena938/LeetCode/tree/master/0013-roman-to-integer) |
+| [1189-maximum-number-of-balloons](https://github.com/prakashjena938/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,8 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/prakashjena938/LeetCode/tree/master/0013-roman-to-integer) |
+| [1189-maximum-number-of-balloons](https://github.com/prakashjena938/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/prakashjena938/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/prakashjena938/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
