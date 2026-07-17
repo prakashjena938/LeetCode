@@ -28,7 +28,11 @@ class Solution {
         l=l/2;
         o=o/2 ;
 
-        return Math.min(Math.min(Math.min(Math.min(o,l),n),a),b);
+        return min(min(min(min(o,l),n),a),b);
          
+    }
+
+    public static int min(int a , int b){
+        return (a>b)?b:a;
     }
 }
