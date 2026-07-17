@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/prakashjena938/LeetCode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/prakashjena938/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/prakashjena938/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0561-array-partition](https://github.com/prakashjena938/LeetCode/tree/master/0561-array-partition) |
 | [3151-special-array-i](https://github.com/prakashjena938/LeetCode/tree/master/3151-special-array-i) |
 ## Math
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/prakashjena938/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0561-array-partition](https://github.com/prakashjena938/LeetCode/tree/master/0561-array-partition) |
 ## String
 |  |
 | ------- |
@@ -43,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/prakashjena938/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/prakashjena938/LeetCode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/prakashjena938/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
