@@ -33,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/prakashjena938/LeetCode/tree/master/0013-roman-to-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/prakashjena938/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
