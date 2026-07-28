@@ -6,8 +6,9 @@ class Solution {
         for(int i = 1; i<=num/2;i++){
             if(num % i == 0)  sum += i; 
         }
-        
-        return sum == num ? true : false;
+        if(sum == num ) return true;
+
+        return false; 
         
     }
 }
