@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/prakashjena938/LeetCode/tree/master/0088-merge-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/prakashjena938/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/prakashjena938/LeetCode/tree/master/0013-roman-to-integer) |
 | [1189-maximum-number-of-balloons](https://github.com/prakashjena938/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1768-merge-strings-alternately](https://github.com/prakashjena938/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Bit Manipulation
 |  |
 | ------- |
