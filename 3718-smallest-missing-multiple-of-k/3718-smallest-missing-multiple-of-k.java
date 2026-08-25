@@ -2,7 +2,7 @@ class Solution {
     int multiple=1;
     public int missingMultiple(int[] nums, int k) {
 
-        Arrays.sort(nums);
+        
         
         for (int i = 1; i <= nums.length+1; i++) {
 
