@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/prakashjena938/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prakashjena938/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/prakashjena938/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/prakashjena938/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/prakashjena938/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/prakashjena938/LeetCode/tree/master/0561-array-partition) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prakashjena938/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/prakashjena938/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/prakashjena938/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/prakashjena938/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Sorting
