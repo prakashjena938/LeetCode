@@ -9,13 +9,10 @@ class Solution {
                 res=f+res;
                 rev=rev+f;
             }
+            if(!rev.equals(res)&& i == 0) return false;
         }
-        // for(int j = 0; j<s.length();j++){
-        //     char b = s.charAt(j);
-        //     if((b>='a'&& b<='z')||(b>='0'&& b<='9'))  res+=b;
-        // }
-        if(rev.equals(res)) return true;
+                
 
-        return false;
+        return true;
     }
 }
