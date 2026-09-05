@@ -2,17 +2,17 @@ class Solution {
     public boolean isPalindrome(String s) {
         StringBuilder res = new StringBuilder();
         StringBuilder rev = new StringBuilder();
-        for (int i = 0; i < s.length(); i++) {
+        s = s.toLowerCase();
+        for (int i = s.length() - 1; i >= 0; i--) {
             char f = s.charAt(i);
-            if (f >= 'A' && f <= 'Z') {
-                f = (char) (f + 32);
-            }
             if ((f >= 'a' && f <= 'z') || (f >= '0' && f <= '9')) {
-                res.append(f);
+                res.insert(0, f);
+                rev.append(f);
             }
         }
-        rev.append(res);
-        rev.reverse();
-        return res.toString().equals(rev.toString());
+        if (!rev.toString().equals(res.toString())) {
+            return false;
+        }
+        return true;
     }
 }
