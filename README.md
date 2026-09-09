@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/prakashjena938/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/prakashjena938/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/prakashjena938/LeetCode/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/prakashjena938/LeetCode/tree/master/1051-height-checker) |
 | [3151-special-array-i](https://github.com/prakashjena938/LeetCode/tree/master/3151-special-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/prakashjena938/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/prakashjena938/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0389-find-the-difference](https://github.com/prakashjena938/LeetCode/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/prakashjena938/LeetCode/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/prakashjena938/LeetCode/tree/master/1051-height-checker) |
 ## String
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/prakashjena938/LeetCode/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/prakashjena938/LeetCode/tree/master/1051-height-checker) |
 ## String Matching
 |  |
 | ------- |
@@ -86,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prakashjena938/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/prakashjena938/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
