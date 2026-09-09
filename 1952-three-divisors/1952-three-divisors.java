@@ -4,6 +4,7 @@ class Solution {
         for (int i = 2; i <n; i++) {
             if(n%i==0) count++;
             if(count >3) return false;
+            if(i>n/2) break;
             
         }
         if(count <3) return false;
