@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/prakashjena938/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/prakashjena938/LeetCode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/prakashjena938/LeetCode/tree/master/1051-height-checker) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/prakashjena938/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3151-special-array-i](https://github.com/prakashjena938/LeetCode/tree/master/3151-special-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/prakashjena938/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/prakashjena938/LeetCode/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/prakashjena938/LeetCode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/prakashjena938/LeetCode/tree/master/1051-height-checker) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/prakashjena938/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
 |  |
 | ------- |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/prakashjena938/LeetCode/tree/master/1952-three-divisors) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/prakashjena938/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
