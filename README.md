@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/prakashjena938/LeetCode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/prakashjena938/LeetCode/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/prakashjena938/LeetCode/tree/master/0507-perfect-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/prakashjena938/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1952-three-divisors](https://github.com/prakashjena938/LeetCode/tree/master/1952-three-divisors) |
 ## Hash Table
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/prakashjena938/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/prakashjena938/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/prakashjena938/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
