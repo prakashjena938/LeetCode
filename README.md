@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/prakashjena938/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/prakashjena938/LeetCode/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/prakashjena938/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0389-find-the-difference](https://github.com/prakashjena938/LeetCode/tree/master/0389-find-the-difference) |
 | [1189-maximum-number-of-balloons](https://github.com/prakashjena938/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/prakashjena938/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prakashjena938/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/prakashjena938/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/prakashjena938/LeetCode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/prakashjena938/LeetCode/tree/master/0141-linked-list-cycle) |
 | [1768-merge-strings-alternately](https://github.com/prakashjena938/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -136,9 +138,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/prakashjena938/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/prakashjena938/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/prakashjena938/LeetCode/tree/master/0141-linked-list-cycle) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/prakashjena938/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/prakashjena938/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/prakashjena938/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
