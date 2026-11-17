@@ -6,7 +6,9 @@ class Foo {
 
     }
 
-    public synchronized  void first(Runnable printFirst) throws InterruptedException {      
+    public synchronized  void first(Runnable printFirst) throws InterruptedException {
+        
+        // printFirst.run() outputs "first". Do not change or remove this line.
         printFirst.run();
         firstExe = true;
         notifyAll();
@@ -14,6 +16,7 @@ class Foo {
 
     public synchronized  void second(Runnable printSecond) throws InterruptedException {
         while(!firstExe) wait();
+        // printSecond.run() outputs "second". Do not change or remove this line.
         printSecond.run();
         secondExe = true;
         notifyAll();
@@ -21,6 +24,11 @@ class Foo {
 
     public synchronized  void third(Runnable printThird) throws InterruptedException {
         while(!secondExe) wait();
-        printThird.run();        
-    }  
+        // printThird.run() outputs "third". Do not change or remove this line.
+        printThird.run();
+        
+        
+    }
+
+   
 }
